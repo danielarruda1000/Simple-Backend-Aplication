@@ -1,0 +1,21 @@
+.formArea{
+    box-shadow:2px 5px 5px rgba(0, 0,0, 0.2);
+    background-color: rgb(245, 245, 245);
+    border-radius: 2px;
+}
+.registerPlace{
+    background:none;
+    margin-top: 100px;
+    width: 35%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn-primary{
+    background-color: whitesmoke;
+    color: #1a599c;
+    font-weight: bold;
+    border-radius: 2px;
+    border: solid 1px #1a599c;
+}
+
+
