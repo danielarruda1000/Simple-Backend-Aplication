@@ -1,5 +1,5 @@
 .formArea{
-    box-shadow:2px 5px 5px rgba(0, 0,0, 0.2);
+    box-shadow:2px 5px 5px rgba(0, 0,0, 0.3);
     background-color: rgb(245, 245, 245);
     border-radius: 2px;
 }
@@ -11,7 +11,7 @@
 }
 
 .btn-primary{
-    background-color: whitesmoke;
+    background-color: rgb(245, 245, 245);
     color: #1a599c;
     font-weight: bold;
     border-radius: 2px;
