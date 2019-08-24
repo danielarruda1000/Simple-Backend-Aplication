@@ -35,7 +35,7 @@ export default class Login extends Component {
                                 <Link to="/register"><small>Register</small></Link>
                             </div>
                             <div className="col-sm-12 col-md-6 ">
-                                <a href=""><small>Forgot password?</small></a>
+                                <Link to="/forgotpassword"><small>Forgot password?</small></Link>
                             </div>
                         </div>
                         <button type="submit" className=" col-12 mt-3 mb-2 btn btn-primary">Login</button>
